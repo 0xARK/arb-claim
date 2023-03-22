@@ -33,6 +33,8 @@ To find your private key in metamask, you can follow [this tutorial](https://sup
 
 - Install nodejs : https://nodejs.org/en/download
 - Download this repository (see image below) and decompress it.
+![image](https://user-images.githubusercontent.com/108460887/226946629-8e8c944e-dd4a-403a-b8d0-3bbf42f5a5a6.png)
+
 - Go to your decompressed folder
 - Right click on `bot.js` file > properties
 - Copy file emplacement WITHOUT the name of the file
