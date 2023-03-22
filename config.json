@@ -1,0 +1,6 @@
+{
+  "rpc": "https://rpc.ankr.com/arbitrum",
+  "transfer_tokens": true,
+  "transfer_tokens_to": "",
+  "max_transfer_tries": 3
+}
