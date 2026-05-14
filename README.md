@@ -1,7 +1,7 @@
 ### Configuration
 
 - `config.json` :
-```json
+```jsonc
 {
   // RPC to use for arbitrum
   "rpc": "https://rpc.ankr.com/arbitrum",
@@ -19,7 +19,7 @@
 
 To find your private key in metamask, you can follow [this tutorial](https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key#:~:text=On%20the%20account%20page%2C%20click,click%20%E2%80%9CConfirm%E2%80%9D%20to%20proceed.)
 
-```json
+```jsonc
 [
   // copy/paste your private key here directly from metamask, without modification
   "PRIVATE_KEY_1",
